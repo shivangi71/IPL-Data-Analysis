@@ -70,27 +70,36 @@ IPL-Data-Analysis/
 
 ## 🚀 How to Run This Project
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/shivangi71/IPL-Data-Analysis.git
- 2️⃣ Open Jupyter Notebook
-jupyter notebook
+1️⃣ Clone the repository
+
+    git clone https://github.com/shivangi71/IPL-Data-Analysis.git
+
+2️⃣ Open Jupyter Notebook
+
+    jupyter notebook
+    
 3️⃣ Run the analysis
 
 Open:
 
 IPL_Analysis.ipynb
+
+---
+
 📌 Results & Outcomes
+
 Identified key winning patterns in IPL matches
 Built structured insights from raw ball-by-ball data
 Improved understanding of match dynamics using data
-Converted raw dataset into analytical storytelling format
+Converted raw dataset into analytical storytelling format.
+
+---
+
 🔮 Future Improvements
 Add machine learning model for match prediction
 Build interactive dashboard (Power BI / Streamlit)
 Include pitch & weather data for deeper insights
-Real-time match analytics system
-👩‍💻 Author
+Real-time match analytics system.
 
 Shivangi Sharma
 Data Analytics Enthusiast | Python | Cricket Analytics
