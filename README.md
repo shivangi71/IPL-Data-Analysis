@@ -73,7 +73,7 @@ IPL-Data-Analysis/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/shivangi71/IPL-Data-Analysis.git
-2️⃣ Open Jupyter Notebook
+ 2️⃣ Open Jupyter Notebook
 jupyter notebook
 3️⃣ Run the analysis
 
