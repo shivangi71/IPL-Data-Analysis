@@ -100,8 +100,36 @@ Add machine learning model for match prediction
 Build interactive dashboard (Power BI / Streamlit)
 Include pitch & weather data for deeper insights
 Real-time match analytics system.
+---
+## 📊 Visualizations
+
+### 🏆 Toss Analysis
+![Toss Analysis](toss_analysis.png)
+
+### 📈 Phase Win Impact
+![Phase Win Impact](phase_win_impact.png)
+
+### ⚡ Phase Dominance Score
+![Phase Dominance](phase_dominance_score.png)
+
+### 🏏 Top Batters
+![Top Batters](top_batters.png)
+
+### 🎯 Top Bowlers
+![Top Bowlers](top_bowlers.png)
+
+### 🧠 Team Consistency Index
+![Team Consistency](team_consistency_index.png)
+
+### 🔍 Win Reason Distribution
+![Win Reasons](win_reason_distribution.png)
+
+### 🔮 Predictability Signal
+![Predictability](predictability_signal.png)
+---
 
 Shivangi Sharma
+
 Data Analytics Enthusiast | Python | Cricket Analytics
 
 
