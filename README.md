@@ -3,7 +3,7 @@
 ---
    
 ## 📌 Project Overview    
-
+   
 This project analyzes IPL ball-by-ball data from 2017 to 2025 to uncover key patterns behind match outcomes. The goal is to move beyond assumptions and identify real data-driven factors that influence winning in IPL matches.
 
 Using Python-based data analysis and visualization, the project explores team performance, player impact, toss decisions, and phase-wise match dynamics (powerplay, middle overs, death overs).
@@ -11,7 +11,7 @@ Using Python-based data analysis and visualization, the project explores team pe
 ---
 
 ## 🎯 Problem Statement
-   
+     
 IPL data analysis to find key factors and patterns influencing match outcomes (2017–2025).
 
 ---
