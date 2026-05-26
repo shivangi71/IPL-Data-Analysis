@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis (2017–2025)
 
----
+---  
    
 ## 📌 Project Overview    
    
