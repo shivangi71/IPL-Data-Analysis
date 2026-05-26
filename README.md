@@ -14,7 +14,7 @@ Using Python-based data analysis and visualization, the project explores team pe
      
 IPL data analysis to find key factors and patterns influencing match outcomes (2017–2025).
 
----
+---  
     
 ## 🧠 Key Objectives
 
