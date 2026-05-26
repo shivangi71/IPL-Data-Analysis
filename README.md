@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview    
 
 This project analyzes IPL ball-by-ball data from 2017 to 2025 to uncover key patterns behind match outcomes. The goal is to move beyond assumptions and identify real data-driven factors that influence winning in IPL matches.
 
